@@ -1,2 +1,2 @@
 # mine cadastro de usuarios
- Este é um sistema de mine cadastro de usuários que envolve a implementação do crude. Para tal foi usado a biblioteca Json-server para simular o backend.
+ Este é um sistema de cadastro que envolve a implementação do crude para um cadastro de usuários. Para tal foi usado a biblioteca Json-server para simular o backend.
