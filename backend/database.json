@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nome": "José Pereira Gomes",
+      "email": "jose@gmail.com.br"
+    },
+    {
+      "id": 2,
+      "nome": "Maria Eduarda Silva",
+      "email": "maria@hotmail.com"
+    },
+    {
+      "nome": "Daniel dos Santos Araujo",
+      "email": "denenewton@icloud.com",
+      "id": 3
+    }
+  ]
+}
